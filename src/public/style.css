@@ -1,0 +1,51 @@
+.title {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20%;
+    margin-left: 10%;
+    font-size: 300%;
+    color: white;
+}
+
+.home {
+    background-color: red;
+    height: 100vh;
+    overflow: auto;
+    background-image: url("../assets/bg.jpg");
+}
+
+body {
+    margin: 0;
+    /* overflow: hidden; */
+    background-color: #2f2f2f;
+}
+
+.products {
+    background-color: #2f2f2f;
+    height: 33.3vh;
+}
+
+.products2 {
+    background-color: #2f2f2f;
+    height: 33.3vh;
+}
+
+.products3 {
+    background-color: #2f2f2f;
+    height: 33.3vh;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.offer {
+    font-size: 50%;
+    color: white;
+    margin-top: 0%;
+}
+
+hr {
+    color: white;
+    margin: 0;
+}
